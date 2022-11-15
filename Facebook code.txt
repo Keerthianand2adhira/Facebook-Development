@@ -4,3 +4,4 @@ This is Facebook code:
 2.	Chat screen code
 3.	Last screen code
 4.	Attachment (Audio, Video, Image) Code
+5. Hiding the last seen
